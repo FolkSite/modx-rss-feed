@@ -13,7 +13,7 @@ Use the **rss_Template.xml** file in this repo. Nothing special to setup.
 
 ###Create Chunk Template
 
-Use the **rss_Chunk.xml** file in this repo. Nothing special to setup. 
+Use the **rss_Chunk.html** file in this repo. Nothing special to setup. 
 
 ---
 
